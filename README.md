@@ -1,6 +1,6 @@
 #### Me, myself, and I
 
-- 💼 Software engineer at [BNP Paribas](https://group.bnpparibas/), in a Graduate Program.
+- 💼 Software engineer at [BNP Paribas CIB Global Markets IT](https://globalmarkets.cib.bnpparibas/), in a Graduate Program. Not a trader. Not a quant.
 - 👨‍🎓 Freshly graduated from [TELECOM Nancy](https://telecomnancy.univ-lorraine.fr/?lang=en) as second best student, after an apprenticeship in a dev team at [STMicroelectronics](https://www.st.com).
 - 🌱 Currently learning [Rust](https://rust-lang.org/) and [Ansible](https://docs.ansible.com/).
 - 🐍 Python enthusiast, obsessed by clean coding and leveraging modern tools.
